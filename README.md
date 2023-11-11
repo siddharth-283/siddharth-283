@@ -79,11 +79,11 @@
 
 <div align="center">
 
-<a href="https://github.com/Siddh0rth/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddh0rth&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Siddh0rth&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"  alt="Siddh0rth"/>
+<a href="https://github.com/siddharth-283/">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddharth-283&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharth-283&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"  alt="siddharth-283"/>
   
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Siddh0rth&" alt="Siddh0rth&theme=tokyonight-duo" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharth-283&" alt="siddharth-283&theme=tokyonight-duo" />
 
 </a>
 </div>
